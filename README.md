@@ -1,5 +1,4 @@
-## Micronaut 4.7.0 Documentation .
-
+## Micronaut 4.7.0 Documentation .,
 - [User Guide](https://docs.micronaut.io/4.7.0/guide/index.html)
 - [API Reference](https://docs.micronaut.io/4.7.0/api/index.html)
 - [Configuration Reference](https://docs.micronaut.io/4.7.0/guide/configurationreference.html)
